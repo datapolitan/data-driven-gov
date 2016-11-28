@@ -236,7 +236,7 @@ code, tt {
 /*  white-space: nowrap;*/
   border: 1px solid #eaeaea;
   background-color: #f8f8f8;
-  border-radius: 3px; 
+  border-radius: 3px;
 word-wrap:break-word;
 }
 
@@ -306,4 +306,8 @@ p.footer{
 form{
   text-align: center;
 
+}
+
+.caption{
+  text-align: center;
 }
