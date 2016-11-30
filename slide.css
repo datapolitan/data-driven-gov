@@ -309,5 +309,8 @@ form{
 }
 
 .caption{
+  display: block;
   text-align: center;
+  color: gray;
+  font-size:0.75em;
 }
