@@ -32,6 +32,10 @@ img[alt=img-left-20]{
   width:20%;
   float:left;
 }
+img[alt=img-left-25]{
+  width:25%;
+  float:left;
+}
 img[alt=img-left-30]{
   width:30%;
   float:left;
@@ -71,6 +75,10 @@ img[alt=img-left-bottom]{
 }
 img[alt=img-right-10]{
   width:10%;
+  float:right;
+}
+img[alt=img-right-15]{
+  width:15%;
   float:right;
 }
 img[alt=img-right-20]{
