@@ -17,6 +17,6 @@ Students will be able to:
 
 ## Credits
 
-Course created by Richard Dunks, [Datapolitan](http://www.datapolitan.com/), with Julia Marden, [Tiny Panther](http://tinypanther.pizza/). Slides designed with [Remark.js](https://remarkjs.com/). Illustrations by Julia Marden, other photos and graphics are credited in the slides. 
+Course created by Richard Dunks, [Datapolitan](http://www.datapolitan.com/), with Julia Marden, [Tiny Panther](https://www.tinypanther.com/). Slides designed with [Remark.js](https://remarkjs.com/). Illustrations by Julia Marden, other photos and graphics are credited in the slides. 
 
 Data Analytics for Managers is meant to be shared, remixed and built upon!  Slides are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Let us know where you take this class next!
